@@ -1,0 +1,5025 @@
+Registro generado el 15/11/2023 a las 11:55
+
+
+**************** Datos del equipo ****************
+
+Modelo: OMX-S_3G - Version: 1.10
+Tipo: -- - Nº Serie: --
+Nivel de Bateria: --
+Fecha: -- - Hora: --
+
+
+**************** Datos modem instalado ****************
+
+IMEI: --
+IMSI: --
+IP add.: --
+FW ver.: --
+Señal: --
+
+
+
+**************** Datos de conexion ****************
+
+Direccion: --
+Puerto: --
+APN 0: --
+APN 1: --
+APN 2: --
+APN 3: --
+APN 4: --
+APN 5: --
+
+
+
+**************** Sensores habilitados ****************
+
+Sensor de Lluvia: 64,8(mm)
+
+
+
+**************** Detalle de muestras ****************
+
+Puntero Escritura: --
+Puntero Lectura: --
+Muestras Almacenadas: --
+
+
+**************** Registro del modem ****************
+
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+ >> AT+GMR
+		12.00.716 ... OK
+ >> AT+CGSN
+		355857052589987 ... OK
+ >> AT#MWI=0
+		 ... ERROR
+
+
+
+**************** Registro de la trama ****************
+
+--model? --version? --type? --serial? --date? --batt?
+|MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--model:OMX-S_3G
+--version:1.10
+--type:3
+--serial:9999
+--date:11362504151123
+--batt:12,9(V)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end||LOG|Modem apagado|end||LOG|Modem encendido|end||LOG|Inicializacion modem correcta|end|--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:59,4(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end|--process:4_Cmd receive...
+--rain:59,4(mm)
+--process:4_Wait command
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:59,4(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+
+@OMX>: --rain=0
+--rain? 
+--process:4_Cmd receive...
+--rain:59,4(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end|--process:4_Cmd receive...
+--rain:59,4(mm)
+--process:4_Wait command
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:59,4(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:59,4(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+
+@OMX>: --rain=0
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:0,0(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:0,0(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--rain? 
+--fw:12.00.716
+--process:4_Cmd receive...
+--rain:0,0(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:0,2(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end||LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:0,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:0,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:0,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:0,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:1,0(mm)
+--process:4_Wait command
+|LOG|Modem encendido|end|--rain? 
+--process:4_Cmd receive...
+--rain:1,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:1,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:1,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:1,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:1,6(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Inicializacion modem correcta|end|--process:4_Cmd receive...
+--rain:1,6(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:1,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:2,0(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:4_Cmd receive...
+--rain:2,0(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+--process:4_Cmd receive...
+--rain:2,2(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+|DEV|AT+GMR
+|end|--process:4_Cmd receive...
+--rain:2,2(mm)
+--process:4_Wait command
+|MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end|--rain? 
+|MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:2,4(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:2,4(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--rain? 
+--fw:12.00.716
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:2,6(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end|--process:4_Cmd receive...
+--rain:2,8(mm)
+--process:4_Wait command
+|MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+--process:4_Cmd receive...
+--rain:2,8(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--rain? 
+--fw:12.00.716
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:3,0(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end|--process:4_Cmd receive...
+--rain:3,0(mm)
+--process:4_Wait command
+|MDM|
+ERROR
+|end||LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:3,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:3,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:3,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:3,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:3,6(mm)
+--process:4_Wait command
+|LOG|Modem encendido|end|--rain? 
+--process:4_Cmd receive...
+--rain:3,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:3,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:4,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:4,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:4,2(mm)
+--process:4_Wait command
+|LOG|Inicializacion modem correcta|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:4,4(mm)
+--process:4_Wait command
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:4,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:4,6(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+--process:4_Cmd receive...
+--rain:4,6(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:4,8(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+--process:4_Cmd receive...
+--rain:5,0(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:5,0(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end|--process:4_Cmd receive...
+--rain:5,2(mm)
+--process:4_Wait command
+|MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+--process:4_Cmd receive...
+--rain:5,2(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:5,4(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end|--process:4_Cmd receive...
+--rain:5,6(mm)
+--process:4_Wait command
+|MDM|
+ERROR
+|end|--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:5,6(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end|--rain? 
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:5,8(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end|--rain? 
+|MDM|
+ERROR
+|end||LOG|Modem apagado|end|--process:4_Cmd receive...
+--rain:5,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:6,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:6,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:6,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:6,4(mm)
+--process:4_Wait command
+--process:1_samplingSample
+|LOG|Inicio toma de muestras @ 11:39|end|
+--rain? 
+|LOG|Modem encendido|end|--process:4_Cmd receive...
+--rain:6,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:6,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:6,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:6,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:7,0(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Inicializacion modem correcta|end|--process:4_Cmd receive...
+--rain:7,0(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:7,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:7,2(mm)
+--process:4_Wait command
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:7,4(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:4_Cmd receive...
+--rain:7,6(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:4_Cmd receive...
+--rain:7,6(mm)
+--process:4_Wait command
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:7,8(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:7,8(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--rain? 
+--fw:12.00.716
+--process:4_Cmd receive...
+--rain:8,0(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end|--rain? 
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:8,2(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:8,2(mm)
+--process:4_Wait command
+--process:2_getModemID
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:4_Cmd receive...
+--rain:8,4(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:8,4(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end||LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:8,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:8,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:8,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:9,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:9,0(mm)
+--process:4_Wait command
+|LOG|Modem encendido|end|--rain? 
+--process:4_Cmd receive...
+--rain:9,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:9,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:9,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:9,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:9,6(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Inicializacion modem correcta|end|--process:4_Cmd receive...
+--rain:9,8(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:10,0(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Fin toma de muestras
+|end|--process:1_saveSample
+|LOG|Muestra guardada
+|end|--process:1_initSample
+--process:1_defaultSample
+--process:4_Cmd receive...
+--rain:10,0(mm)
+--process:4_Wait command
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:10,2(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:4_Cmd receive...
+--rain:10,2(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:10,4(mm)
+--process:4_Wait command
+--process:2_getModemID
+|DEV|AT+GMR
+|end|--rain? 
+|MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:4_Cmd receive...
+--rain:10,4(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:10,6(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:10,8(mm)
+--process:4_Wait command
+--process:2_getModemID
+|DEV|AT+GMR
+|end|--rain? 
+|MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:4_Cmd receive...
+--rain:10,8(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:11,0(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+|DEV|AT+GMR
+|end|--process:4_Cmd receive...
+--rain:11,2(mm)
+--process:4_Wait command
+|MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:11,2(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end|--rain? 
+|MDM|
+ERROR
+|end||LOG|Modem apagado|end|--process:4_Cmd receive...
+--rain:11,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:11,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:11,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:11,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:11,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:12,0(mm)
+--process:4_Wait command
+|LOG|Modem encendido|end|--rain? 
+--process:4_Cmd receive...
+--rain:12,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:12,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:12,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:12,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:12,6(mm)
+--process:4_Wait command
+|LOG|Inicializacion modem correcta|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+--process:4_Cmd receive...
+--rain:12,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:12,8(mm)
+--process:4_Wait command
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:13,0(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:13,0(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end|--rain? 
+|MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:13,2(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--rain? 
+--fw:12.00.716
+--process:4_Cmd receive...
+--rain:13,2(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:13,4(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:13,6(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end|--rain? 
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:13,6(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:4_Cmd receive...
+--rain:13,8(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:13,8(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end|--rain? 
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:14,0(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end|--rain? 
+|MDM|
+ERROR
+|end||LOG|Modem apagado|end|--process:4_Cmd receive...
+--rain:14,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:14,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:14,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:14,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:14,6(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Modem encendido|end|--process:4_Cmd receive...
+--rain:14,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:14,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:15,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:15,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:15,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:15,2(mm)
+--process:4_Wait command
+|LOG|Inicializacion modem correcta|end|--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:15,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:15,6(mm)
+--process:4_Wait command
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:4_Cmd receive...
+--rain:15,6(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--rain? 
+--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:15,8(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:15,8(mm)
+--process:4_Wait command
+--process:2_getModemID
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:16,0(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:16,0(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:4_Cmd receive...
+--rain:16,2(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end|--rain? 
+|MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:16,4(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:16,4(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:16,6(mm)
+--process:4_Wait command
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:16,6(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:16,8(mm)
+--process:4_Wait command
+|LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:17,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:17,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:17,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:17,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:17,4(mm)
+--process:4_Wait command
+|LOG|Modem encendido|end|--rain? 
+--process:4_Cmd receive...
+--rain:17,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:17,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:17,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:17,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:18,0(mm)
+--process:4_Wait command
+|LOG|Inicializacion modem correcta|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:18,2(mm)
+--process:4_Wait command
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:18,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:18,4(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:18,4(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end|--rain? 
+|MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:18,6(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:4_Cmd receive...
+--rain:18,8(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--rain? 
+--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:18,8(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:19,0(mm)
+--process:4_Wait command
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end|--process:4_Cmd receive...
+--rain:19,0(mm)
+--process:4_Wait command
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:19,2(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:19,2(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:19,4(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end||LOG|Modem apagado|end|--process:4_Cmd receive...
+--rain:19,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:19,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:19,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:20,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:20,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:20,2(mm)
+--process:4_Wait command
+|LOG|Modem encendido|end|--rain? 
+--process:4_Cmd receive...
+--rain:20,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:20,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:20,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:20,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:20,8(mm)
+--process:4_Wait command
+|LOG|Inicializacion modem correcta|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+--process:4_Cmd receive...
+--rain:20,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:21,0(mm)
+--process:4_Wait command
+--rain? 
+|DEV|AT+GMR
+|end|--process:4_Cmd receive...
+--rain:21,0(mm)
+--process:4_Wait command
+|MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:21,2(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end|--rain? 
+|MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:21,4(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:21,4(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end|--process:4_Cmd receive...
+--rain:21,6(mm)
+--process:4_Wait command
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end|--rain? 
+|MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:21,6(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:21,8(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:22,0(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:22,0(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end|--rain? 
+|MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:4_Cmd receive...
+--rain:22,2(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:22,2(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end||LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:22,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:22,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:22,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:22,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:22,8(mm)
+--process:4_Wait command
+|LOG|Modem encendido|end|--rain? 
+--process:4_Cmd receive...
+--rain:23,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:23,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:23,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:23,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:23,4(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Inicializacion modem correcta|end|--process:4_Cmd receive...
+--rain:23,6(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:23,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:23,8(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:24,0(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end|--process:4_Cmd receive...
+--rain:24,0(mm)
+--process:4_Wait command
+|MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:24,2(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:24,2(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end|--rain? 
+|MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:24,4(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+--process:4_Cmd receive...
+--rain:24,4(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end|--process:4_Cmd receive...
+--rain:24,6(mm)
+--process:4_Wait command
+|MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+--process:4_Cmd receive...
+--rain:24,8(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:24,8(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end|--process:4_Cmd receive...
+--rain:25,0(mm)
+--process:4_Wait command
+|MDM|
+ERROR
+|end||LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:25,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:25,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:25,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:25,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:25,6(mm)
+--process:4_Wait command
+|LOG|Modem encendido|end|--rain? 
+--process:4_Cmd receive...
+--rain:25,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:25,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:26,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:26,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:26,2(mm)
+--process:4_Wait command
+|LOG|Inicializacion modem correcta|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:26,2(mm)
+--process:4_Wait command
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:26,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:26,6(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end|--process:4_Cmd receive...
+--rain:26,6(mm)
+--process:4_Wait command
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:26,8(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:26,8(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+--process:4_Cmd receive...
+--rain:27,0(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end|--process:4_Cmd receive...
+--rain:27,0(mm)
+--process:4_Wait command
+|MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+--process:4_Cmd receive...
+--rain:27,2(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:27,4(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end|--process:4_Cmd receive...
+--rain:27,4(mm)
+--process:4_Wait command
+|MDM|
+ERROR
+|end|--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end|--rain? 
+|MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:27,6(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--rain? 
+--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:27,6(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end||LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:27,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:28,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:28,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:28,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:28,4(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Modem encendido|end|--process:4_Cmd receive...
+--rain:28,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:28,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:28,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:28,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:28,8(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Inicializacion modem correcta|end|--process:4_Cmd receive...
+--rain:29,0(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:29,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:29,2(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end|--rain? 
+|MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:4_Cmd receive...
+--rain:29,4(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:29,4(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+|DEV|AT+GMR
+|end|--process:4_Cmd receive...
+--rain:29,6(mm)
+--process:4_Wait command
+|MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:29,6(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:29,8(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:4_Cmd receive...
+--rain:30,0(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+--process:4_Cmd receive...
+--rain:30,0(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:30,2(mm)
+--process:4_Wait command
+--process:2_getModemID
+|DEV|AT+GMR
+|end|--rain? 
+|MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:4_Cmd receive...
+--rain:30,2(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:30,4(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end||LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:30,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:30,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:30,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:30,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:31,0(mm)
+--process:4_Wait command
+|LOG|Modem encendido|end|--rain? 
+--process:4_Cmd receive...
+--rain:31,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:31,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:31,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:31,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:31,6(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Inicializacion modem correcta|end|--process:4_Cmd receive...
+--rain:31,6(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:31,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:32,0(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:32,0(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:32,2(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+--process:4_Cmd receive...
+--rain:32,4(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--rain? 
+--fw:12.00.716
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:32,4(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end|--process:4_Cmd receive...
+--rain:32,6(mm)
+--process:4_Wait command
+|MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:32,6(mm)
+--process:4_Wait command
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--rain? 
+--fw:12.00.716
+--process:4_Cmd receive...
+--rain:32,8(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:32,8(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+|DEV|AT+GMR
+|end|--process:4_Cmd receive...
+--rain:33,0(mm)
+--process:4_Wait command
+|MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:33,2(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+|LOG|Modem apagado|end|--process:4_Cmd receive...
+--rain:33,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:33,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:33,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:33,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:33,8(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Modem encendido|end|--process:4_Cmd receive...
+--rain:33,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:34,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:34,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:34,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:34,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:34,4(mm)
+--process:4_Wait command
+|LOG|Inicializacion modem correcta|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+--process:4_Cmd receive...
+--rain:34,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:34,6(mm)
+--process:4_Wait command
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:34,8(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end|--rain? 
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:34,8(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:35,0(mm)
+--process:4_Wait command
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:35,2(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:35,2(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:4_Cmd receive...
+--rain:35,4(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:4_Cmd receive...
+--rain:35,4(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:4_Cmd receive...
+--rain:35,6(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:35,6(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:35,8(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end||LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:36,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:36,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:36,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:36,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:36,4(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Modem encendido|end|--process:4_Cmd receive...
+--rain:36,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:36,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:36,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:36,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:37,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:37,2(mm)
+--process:4_Wait command
+|LOG|Inicializacion modem correcta|end|--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:37,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:37,4(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end|--rain? 
+|MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:4_Cmd receive...
+--rain:37,4(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end|--rain? 
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:37,6(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:37,6(mm)
+--process:4_Wait command
+--process:2_getModemID
+|DEV|AT+GMR
+|end|--rain? 
+|MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:4_Cmd receive...
+--rain:37,8(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end|--rain? 
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:38,0(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:4_Cmd receive...
+--rain:38,0(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:4_Cmd receive...
+--rain:38,2(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end|--rain? 
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:38,2(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:38,4(mm)
+--process:4_Wait command
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:38,4(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:38,6(mm)
+--process:4_Wait command
+|LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:38,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:38,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:39,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:39,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:39,2(mm)
+--process:4_Wait command
+|LOG|Modem encendido|end|--rain? 
+--process:4_Cmd receive...
+--rain:39,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:39,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:39,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:39,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:39,8(mm)
+--process:4_Wait command
+|LOG|Inicializacion modem correcta|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:39,8(mm)
+--process:4_Wait command
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:40,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:40,2(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:40,2(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:40,4(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--rain? 
+--fw:12.00.716
+--process:4_Cmd receive...
+--rain:40,4(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:40,6(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:4_Cmd receive...
+--rain:40,6(mm)
+--process:4_Wait command
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end|--process:4_Cmd receive...
+--rain:40,8(mm)
+--process:4_Wait command
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end|--rain? 
+|MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:41,0(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:41,0(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:41,2(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+|LOG|Modem apagado|end|--process:4_Cmd receive...
+--rain:41,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:41,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:41,6(mm)
+--process:4_Wait command
+--rain? 
+--process:1_samplingSample
+|LOG|Inicio toma de muestras @ 11:49|end|
+--process:4_Cmd receive...
+--rain:41,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:41,8(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Modem encendido|end|--process:4_Cmd receive...
+--rain:41,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:42,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:42,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:42,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:42,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:42,4(mm)
+--process:4_Wait command
+|LOG|Inicializacion modem correcta|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+--process:4_Cmd receive...
+--rain:42,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:42,8(mm)
+--process:4_Wait command
+--rain? 
+|DEV|AT+GMR
+|end|--process:4_Cmd receive...
+--rain:42,8(mm)
+--process:4_Wait command
+|MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:43,0(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:4_Cmd receive...
+--rain:43,0(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:43,2(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:43,2(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:4_Cmd receive...
+--rain:43,4(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:43,6(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:43,6(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:43,8(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:4_Cmd receive...
+--rain:43,8(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:44,0(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end||LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:44,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:44,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:44,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:44,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:44,6(mm)
+--process:4_Wait command
+|LOG|Modem encendido|end|--rain? 
+--process:4_Cmd receive...
+--rain:44,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:44,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:45,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:45,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:45,2(mm)
+--process:4_Wait command
+|LOG|Fin toma de muestras
+|end|--process:1_saveSample
+|LOG|Muestra guardada
+|end|--rain? 
+--process:1_initSample
+--p|LOG|Inicializacion modem correcta|end|--process:4_Cmd receive...
+--rain:45,2(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:45,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:45,6(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--rain? 
+--fw:12.00.716
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:45,6(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end|--process:4_Cmd receive...
+--rain:45,8(mm)
+--process:4_Wait command
+|MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:45,8(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:46,0(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:4_Cmd receive...
+--rain:46,0(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:46,2(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end|--process:4_Cmd receive...
+--rain:46,4(mm)
+--process:4_Wait command
+|MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+--process:4_Cmd receive...
+--rain:46,4(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:46,6(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end|--process:4_Cmd receive...
+--rain:46,6(mm)
+--process:4_Wait command
+|MDM|
+ERROR
+|end||LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:46,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:47,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:47,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:47,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:47,2(mm)
+--process:4_Wait command
+|LOG|Modem encendido|end|--rain? 
+--process:4_Cmd receive...
+--rain:47,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:47,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:47,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:47,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:47,8(mm)
+--process:4_Wait command
+|LOG|Inicializacion modem correcta|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:48,0(mm)
+--process:4_Wait command
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:48,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:48,2(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end|--process:4_Cmd receive...
+--rain:48,4(mm)
+--process:4_Wait command
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:48,4(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+--process:4_Cmd receive...
+--rain:48,6(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:48,6(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end|--process:4_Cmd receive...
+--rain:48,8(mm)
+--process:4_Wait command
+|MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+--process:4_Cmd receive...
+--rain:49,0(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:49,0(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end|--process:4_Cmd receive...
+--rain:49,2(mm)
+--process:4_Wait command
+|MDM|
+ERROR
+|end|--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:49,2(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--rain? 
+--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:49,4(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end||LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:49,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:49,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:49,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:50,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:50,0(mm)
+--process:4_Wait command
+|LOG|Modem encendido|end|--rain? 
+--process:4_Cmd receive...
+--rain:50,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:50,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:50,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:50,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:50,6(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Inicializacion modem correcta|end|--process:4_Cmd receive...
+--rain:50,8(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:50,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:51,0(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--rain? 
+--fw:12.00.716
+--process:4_Cmd receive...
+--rain:51,0(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--rain? 
+--imei:3558570525899870
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:51,2(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end|--process:4_Cmd receive...
+--rain:51,4(mm)
+--process:4_Wait command
+|MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:51,4(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:51,6(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--rain? 
+--fw:12.00.716
+--process:4_Cmd receive...
+--rain:51,6(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:51,8(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:52,0(mm)
+--process:4_Wait command
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--rain? 
+--fw:12.00.716
+--process:4_Cmd receive...
+--rain:52,0(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:52,2(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end||LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:52,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:52,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:52,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:52,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:52,8(mm)
+--process:4_Wait command
+|LOG|Modem encendido|end|--rain? 
+--process:4_Cmd receive...
+--rain:52,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:53,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:53,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:53,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:53,4(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Inicializacion modem correcta|end|--process:4_Cmd receive...
+--rain:53,4(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:53,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:53,6(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:53,8(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:54,0(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+--process:4_Cmd receive...
+--rain:54,0(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:54,2(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+--process:4_Cmd receive...
+--rain:54,2(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:4_Cmd receive...
+--rain:54,4(mm)
+--process:4_Wait command
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:4_Cmd receive...
+--rain:54,4(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+--process:4_Cmd receive...
+--rain:54,6(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+|DEV|AT+GMR
+|end|--process:4_Cmd receive...
+--rain:54,8(mm)
+--process:4_Wait command
+|MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:54,8(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end||LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:55,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:55,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:55,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:55,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:55,4(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Modem encendido|end|--process:4_Cmd receive...
+--rain:55,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:55,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:55,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:56,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:56,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:56,2(mm)
+--process:4_Wait command
+|LOG|Inicializacion modem correcta|end|--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+--process:4_Cmd receive...
+--rain:56,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:56,4(mm)
+--process:4_Wait command
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:56,6(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end|--rain? 
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:56,6(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:56,8(mm)
+--process:4_Wait command
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:56,8(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:57,0(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--rain? 
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:57,2(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:4_Cmd receive...
+--rain:57,2(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:4_Cmd receive...
+--rain:57,4(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:57,4(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end|--rain? 
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:57,6(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end||LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:57,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:57,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:58,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:58,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:58,2(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Modem encendido|end|--process:4_Cmd receive...
+--rain:58,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:58,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:58,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:58,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:58,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:59,0(mm)
+--process:4_Wait command
+|LOG|Inicializacion modem correcta|end|--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:59,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:59,2(mm)
+--process:4_Wait command
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:4_Cmd receive...
+--rain:59,2(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end|--rain? 
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:59,4(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:59,6(mm)
+--process:4_Wait command
+--process:2_getModemID
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:4_Cmd receive...
+--rain:59,6(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:4_Cmd receive...
+--rain:59,8(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:4_Cmd receive...
+--rain:59,8(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:60,0(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:4_Cmd receive...
+--rain:60,2(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:60,2(mm)
+--process:4_Wait command
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+--process:4_Cmd receive...
+--rain:60,4(mm)
+--process:4_Wait command
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:60,4(mm)
+--process:4_Wait command
+|LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:60,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:60,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:60,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:61,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:61,2(mm)
+--process:4_Wait command
+|LOG|Modem encendido|end|--rain? 
+--process:4_Cmd receive...
+--rain:61,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:61,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:61,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:61,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:61,6(mm)
+--process:4_Wait command
+|LOG|Inicializacion modem correcta|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:61,8(mm)
+--process:4_Wait command
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:62,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:62,0(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--rain? 
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:62,2(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end|--rain? 
+|MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:62,4(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--rain? 
+--fw:12.00.716
+--process:4_Cmd receive...
+--rain:62,4(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--rain? 
+--imei:3558570525899870
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:62,6(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--rain? 
+--process:2_gprsReset
+--process:4_Cmd receive...
+--rain:62,6(mm)
+--process:4_Wait command
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end|--process:4_Cmd receive...
+--rain:62,8(mm)
+--process:4_Wait command
+|MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:62,8(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:63,0(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:63,2(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+--rain? 
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end||LOG|Modem apagado|end|--process:4_Cmd receive...
+--rain:63,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:63,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:63,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:63,6(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:63,6(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Modem encendido|end|--process:4_Cmd receive...
+--rain:63,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:64,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:64,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:64,0(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:64,2(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:64,2(mm)
+--process:4_Wait command
+|LOG|Inicializacion modem correcta|end|--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:64,4(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:64,4(mm)
+--process:4_Wait command
+--rain? 
+|DEV|AT+GMR
+|end|--process:4_Cmd receive...
+--rain:64,6(mm)
+--process:4_Wait command
+|MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:64,6(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end|--rain? 
+|MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end|--rain? 
+|MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--fw:12.00.716
+--process:2_getIMEI
+--rain? 
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--imei:3558570525899870
+--process:2_MWI_OFF
+|DEV|AT#MWI=0
+|end|--rain? 
+|MDM|
+ERROR
+|end|--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+|DEV|AT+GMR
+|end||MDM|
+12.00.716
+
+OK
+|end|--rain? 
+--fw:12.00.716
+--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--process:2_getIMEI
+|DEV|AT+CGSN
+|end||MDM|
+355857052589987
+
+OK
+|end|--imei:3558570525899870
+--rain? 
+--process:2_MWI_OFF
+--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+|DEV|AT#MWI=0
+|end||MDM|
+ERROR
+|end||LOG|Modem apagado|end|--rain? 
+--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+|LOG|Modem encendido|end|--rain? 
+--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--rain? 
+--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--rain? 
+|LOG|Inicializacion modem correcta|end|--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--process:2_gprsReset
+--process:2_getModemID
+--rain? 
+--process:4_Cmd receive...
+--rain:64,8(mm)
+--process:4_Wait command
+--rain? 
+
+
+
+**************** Registro del equipo ****************
+
+Buscando puertos...
+Puertos Disponibles: [COM2, COM6, COM8]
+Conectando con COM2 ... 
+Actualizando equipo...
+Dispositivo encontrado
+Equipo actualizado.
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Inicio toma de muestras @ 11:39
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Fin toma de muestras
+
+Muestra guardada
+
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Inicio toma de muestras @ 11:49
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Fin toma de muestras
+
+Muestra guardada
+
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Modem apagado
+Modem encendido
+Inicializacion modem correcta
+Fin conexion
+Desconectando equipo
+DESCONECTADO!!
+ -------------------
